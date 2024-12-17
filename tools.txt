@@ -1,0 +1,6 @@
+SDLC is good
+Linux is operating sys
+Scripting is good automation
+Git is DVMs
+Aws
+EC2
